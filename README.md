@@ -1,2 +1,3 @@
-# megamaker
-Public repo for the MegaMaker community
+# MegaMaker
+
+This is a public repo for the [MegaMaker](http://megamaker.co/challenge) community.
